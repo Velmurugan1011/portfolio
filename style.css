@@ -362,3 +362,29 @@ footer p {
 .name {
     color: blue;
 }
+
+/* project cards (added) */
+.project-group-title {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0;
+}
+.project-company {
+    color: rgb(85, 85, 85);
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+.project-type {
+    color: rgb(85, 85, 85);
+    margin-bottom: 0.25rem;
+}
+.project-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10rem;
+    border-radius: 1rem;
+    background: rgb(235, 235, 235);
+    font-size: 4rem;
+    color: rgb(85, 85, 85);
+}
